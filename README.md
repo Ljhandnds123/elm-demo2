@@ -24,7 +24,5 @@ npm run build --report
 vue2 + vue-resource + vue-router + webpack + ES6 + stylus
 
 ## 效果图
-<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231337.png" width="365" height="619"/>
-<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231342.png" width="365" height="619"/>
-<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231353.png" width="365" height="619"/>
-<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 232522.png" width="365" height="619"/>
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231337.png" width="365" height="619"/><img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231342.png" width="365" height="619"/>
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231353.png" width="365" height="619"/><img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 232522.png" width="365" height="619"/>
