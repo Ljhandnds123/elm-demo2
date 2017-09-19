@@ -24,6 +24,9 @@ npm run build --report
 vue2 + vue-resource + vue-router + webpack + ES6 + stylus
 
 ## 效果图
-<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/主页.png" width="365" height="619"/>  <img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/商家详情页.png" width="365" height="619"/>
+#商家主页面和详情页
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/主页.png" width="365" height="619"/>  <img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/商家详情页.png" width="365" height="619"/>
+#商品页和评论区
 <img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/商品页.png" width="365" height="619"/>  <img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/商品评价.png" width="365" height="619"/>
+#购物车和支付
 <img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/购物车.png" width="365" height="619"/>  <img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/支付.png" width="365" height="619"/>
