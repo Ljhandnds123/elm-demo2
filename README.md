@@ -1,5 +1,5 @@
 # elm-demo3
- 这是一个仿饿了吗商家界面的一个组件
+ 这是一个仿饿了吗商家界面的一个组件,数据是json配置url上模拟的后台数据。
  只完成了商品这部分的东西
  评价和商家基本都复用了商品中的一些封装好的组件，因为时间问题就没有完成
 > A Vue.js project
@@ -24,4 +24,7 @@ npm run build --report
 vue2 + vue-resource + vue-router + webpack + ES6 + stylus
 
 ## 效果图
-<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/picture/2017-09-11 231337.png" width="365" height="619"/>
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231337.png" width="365" height="619"/>
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231342.png" width="365" height="619"/>
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 231353.png" width="365" height="619"/>
+<img src="https://github.com/Ljhandnds123/elm-demo2/blob/master/pic/2017-09-11 232522.png" width="365" height="619"/>
