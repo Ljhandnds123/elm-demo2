@@ -1,5 +1,7 @@
 # elm-demo3
-
+ 这是一个仿饿了吗商家界面的一个组件
+ 只完成了商品这部分的东西
+ 评价和商家基本都复用了商品中的一些封装好的组件，因为时间问题就没有完成
 > A Vue.js project
 
 ## Build Setup
@@ -18,4 +20,8 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 技术栈
+vue2 + vue-resource + vue-router + webpack + ES6 + stylus
+
+## 效果图
+
